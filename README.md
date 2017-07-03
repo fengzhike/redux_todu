@@ -9,7 +9,7 @@ You can follow along the tutorial or download this code and play with the demo.
 
 ```
 npm install
-DEBUG=true npm start
+npm start
 open http://localhost:3000
 ```
 
